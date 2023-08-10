@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01993e75-4afe-4719-93de-023792462d6c" name="变更" comment="" />
+    <list default="true" id="395bd75c-d42d-4461-bc6e-d47315d14482" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monte_Carlo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Monte_Carlo/com/caicai/javalearning/MonteCarloApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Monte_Carlo/com/caicai/javalearning/MonteCarloSimulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caicai/javalearning/MonteCarloApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caicai/javalearning/MonteCarloSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,46 +38,28 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Th2DSXwqa6Ye7MKPFlYVdp8j5L" />
+  <component name="ProjectId" id="2TmQ7VZci8RRlYcsShaOmxAoSIC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
-      &quot;JAVA&quot;
-    ]
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.com.monte.MonteCarlo">
-    <configuration name="com.monte.GTP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.monte.GTP" />
-      <module name="monte_carlo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.monte.MonteCarlo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.monte.MonteCarlo" />
-      <module name="monte_carlo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.monte.monte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.monte.monte" />
-      <module name="monte_carlo" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MonteCarloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.caicai.javalearning.MonteCarloApp" />
+      <module name="Monte_Carlo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.monte.method.*" />
+          <option name="PATTERN" value="com.caicai.javalearning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,53 +67,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonteCarloSimulation" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MonteCarloSimulation" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/MonteCarloSimulation.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="scratch2" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scratch2" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch2.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Java 草稿.MonteCarloSimulation" />
-      <item itemvalue="Java 草稿.scratch2" />
-      <item itemvalue="应用程序.com.monte.monte" />
-      <item itemvalue="应用程序.com.monte.GTP" />
-      <item itemvalue="应用程序.com.monte.MonteCarlo" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.com.monte.MonteCarlo" />
-        <item itemvalue="Java 草稿.MonteCarloSimulation" />
-        <item itemvalue="Java 草稿.scratch2" />
-        <item itemvalue="应用程序.com.monte.GTP" />
-        <item itemvalue="应用程序.com.monte.monte" />
+        <item itemvalue="应用程序.MonteCarloApp" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="01993e75-4afe-4719-93de-023792462d6c" name="变更" comment="" />
-      <created>1691480873926</created>
+      <changelist id="395bd75c-d42d-4461-bc6e-d47315d14482" name="变更" comment="" />
+      <created>1691645608782</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1691480873926</updated>
-      <workItem from="1691480875137" duration="11359000" />
-      <workItem from="1691544496655" duration="277000" />
-      <workItem from="1691562674296" duration="639000" />
-      <workItem from="1691639170403" duration="536000" />
+      <updated>1691645608782</updated>
+      <workItem from="1691645610014" duration="773000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
