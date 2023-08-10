@@ -1,4 +1,0 @@
-C:\Users\caicai\IdeaProjects\Test01
-C:\Users\caicai\IdeaProjects\Test
-C:\Users\caicai\IdeaProjects\Java_foundation
-C:\Users\caicai\IdeaProjects\car_build
