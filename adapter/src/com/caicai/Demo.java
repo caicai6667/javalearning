@@ -4,7 +4,11 @@ import com.caicai.adapters.SquarePegAdapter;
 import com.caicai.round.RoundHole;
 import com.caicai.round.RoundPeg;
 import com.caicai.square.SquarePeg;
-
+/*
+方钉适配圆孔
+写一个圆孔和圆钉的值，如果匹配能修就输出
+写一个small跟large的方钉，如果能够适配就输出
+ */
 public class Demo {
     public static void main(String[] args) {
         // Round fits round, no surprise.

@@ -1,5 +1,10 @@
 package com.caicai.square;
 
+/*
+
+创一个方孔类，参数是width
+get一下
+ */
 public class SquarePeg {
     private double width;
 
@@ -9,11 +14,5 @@ public class SquarePeg {
 
     public double getWidth() {
         return width;
-    }
-
-    public double getSquare() {
-        double result;
-        result = Math.pow(this.width, 2);
-        return result;
     }
 }
